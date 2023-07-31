@@ -1,1 +1,1 @@
-wep app for checking prices for Udemy courses
+Web app for checking prices for Udemy courses
